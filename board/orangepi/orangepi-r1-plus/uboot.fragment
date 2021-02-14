@@ -1,0 +1,2 @@
+CONFIG_BAUDRATE=115200
+# CONFIG_MKIMAGE_DTC_PATH="/home/tid/buildroot/output/build/uboot-2020.07/scripts/dtc/dtc"
